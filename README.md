@@ -7,7 +7,7 @@ A minimalist Python utility using a Greedy Pathfinding Algorithm to calculate th
 | File | Purpose |
 | :--- | :--- |
 | `eers.py` | The core Python script containing the route calculation logic. |
-| `target_data_input.txt` | **REQUIRED INPUT.** Edit this file to add your `System Name | Body String` pairs. |
+| `target_data_input.txt` | **REQUIRED INPUT.** Edit this file if you want to add more `System Name | Body String` pairs. |
 | `run_eers.bat` | **Windows Launcher.** Double-click this to run the script without using the `cd` command. |
 
 

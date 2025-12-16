@@ -1,0 +1,54 @@
+Col 285 Sector BS-I c10-11 | ABCD 2 a
+HIP 82068 | 5 c
+HIP 83863 | AB 1 e
+HIP 84676 | 5 b
+HIP 86940 | 2 a
+Acurus | A 3
+Col 285 Sector JY-H c10-27 | B 5 a
+Col 285 Sector GK-K b23-8 | C 1
+Col 285 Sector ID-G a54-2 | A 2
+Kwatee | C 6
+Bridge | 1
+Harma | A 7 f
+Daruwutja | B 4; B 5
+Lyncis Sector CL-Y c14 | ABC 1 c
+Arietis Sector YU-X b1-4 | B 6
+Hyades Sector YU-Y d76 | 1 b; 1 c
+Hyades Sector AL-X c1-24 | A 3
+HIP 22633 | 3 a
+HIP 20415 | 11 b; 11 d; 7 c
+Arietis Sector ZE-A d74 | 1 d
+HIP 21946 | 6 b
+HR 1385 | 6 b; 6 c; 6 d
+Hyades Sector GB-W b2-5 | AB 5
+HIP 26761 | 5 a; 5 c
+Shoribelu | 5 b; 5 c; 9 e
+HIP 28774 | AB 10 e
+Col 285 Sector ST-P c6-11 | A 4
+Aleutes | B 2
+Col 285 Sector YK-M c8-9 | 1
+HIP 56960 | 3 a
+Borfor | 1 c; 1 d
+Arvirisa | C 4
+Chersem | 2
+HIP 86086 | 4 a
+HR 6015 | 3 c
+Col 285 Sector WE-Q d5-88 | A 4
+Kherthaje | 3 e
+Antliae Sector IM-W d1-129 | 4
+Setati | A 1
+Col 285 Sector BG-E c12-16 | A 8 a
+Col 285 Sector SI-J c9-12 | 5 e
+HIP 37068 | 1 b; 6 a; 6 b
+Wuning | A 1
+Col 285 Sector ZE-P c6-21 | B 4
+HIP 26060 | 5 a
+BD-08 535 | 1 c
+Hyades Sector JR-W c1-6 | 1 a
+HIP 9331 | AB 5 c
+HIP 772 | 2 b; 2 c
+El Tio | 5 a
+HIP 105439 | AB 4 e
+Faroras | 3 d
+Di Yomi | C 7
+Samontia | 1 g
